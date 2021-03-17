@@ -4,3 +4,5 @@
 
 3. Keep it Simple -- Consistency, simplicity, understandable, don't over-engineer.
 
+4. Get in "The Zone" -- make sure you have ~3 uninterrupted hours without distractions to focus.
+
